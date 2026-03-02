@@ -8,7 +8,6 @@
 ![FiveM](https://img.shields.io/badge/FiveM-Compatible-green?style=for-the-badge)
 ![Lua](https://img.shields.io/badge/Lua-5.4-purple?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge)
-![License](https://img.shields.io/badge/license-MIT-orange?style=for-the-badge)
 
 </div>
 
