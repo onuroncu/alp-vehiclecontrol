@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚗 zeke-vehiclecontrol
+# 🚗 alp-vehiclecontrol
 
 **Advanced Vehicle Control Panel for FiveM**
 
